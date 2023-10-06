@@ -4,11 +4,11 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Aman</Text>
-      <Text>Aman</Text>
-      <Text>Aman</Text>
-      <Text>Aman</Text>
-      <Text>Aman</Text>
+      <Text>Hello World</Text>
+      <img
+        src="https://imgv3.fotor.com/images/side/3D-pink-hair-girl-image-with-generate-box.jpg"
+        alt=""
+      />
       <StatusBar style="auto" />
     </View>
   );
