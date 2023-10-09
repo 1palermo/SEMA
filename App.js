@@ -5,6 +5,55 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+      <Text>Aman</Text>
+
       <StatusBar style="auto" />
     </View>
   );
